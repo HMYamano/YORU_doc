@@ -9,8 +9,8 @@ tagline:             The Jekyll Butler
 paginate:            1
 url: "https://HMYamano.github.io"
 baseurl: "/YORU_doc"
-# remote_theme: jekyll-theme-lanyon
-remote_theme: pages-themes/minimal
+remote_theme: jekyll-theme-lanyon
+# remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme
 - jekyll-paginate
