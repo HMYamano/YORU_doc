@@ -10,7 +10,7 @@ tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll-theme-lanyon
 plugins:
 - jekyll-remote-theme
 
