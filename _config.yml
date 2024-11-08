@@ -2,17 +2,18 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
 paginate:            1
-baseurl:             ""
-remote_theme: jekyll-theme-lanyon
+url: "https://HMYamano.github.io"
+baseurl: "/YORU_doc"
+# remote_theme: jekyll-theme-lanyon
+remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme
+- jekyll-paginate
 
 # Assets
 #
